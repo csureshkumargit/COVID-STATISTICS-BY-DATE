@@ -1,0 +1,65 @@
+.heading-frm{
+    font-size: 1em;
+    font-family: ui-serif;
+    font-weight: bold;
+    margin-left: 8.2em;
+}
+.lbl-form-txt{
+
+    font-size: 1em;
+    font-family: ui-serif;
+    margin-left: 8em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+.input-form-data
+{
+font-size: 1em;
+font-family: ui-serif;
+margin-left: 2em;
+padding-left: 2em;
+}
+
+.input-form-date
+{    font-size: 1em;
+    font-family: ui-serif;
+    margin-left: 3.4em;
+    padding-left: 2em;
+    margin-top: 1em;
+}
+
+.btn-submit{
+    margin-top: 2em;
+    margin-left: 18em;
+    height: 3em;
+    width: 14em;
+    border-radius: 5em;
+    border: none;
+    background-color: silver;
+}
+.list-filter-country{
+    list-style-type: none;
+    position: absolute;
+    z-index: 1;
+    margin-top: -2.5em;
+    margin-left: 13em;
+}
+.list-countries{
+    padding: 0.5em;
+    background-color: lightgray;
+    margin-right: 75em;
+    margin-bottom: 0.1em;
+    width: 13em;
+}
+.form-country-date{
+    position: relative;
+}
+
+.tbl-statistics{
+    margin-left: 14.5em;
+    margin-top: 2em;
+    
+}
+table ,th, td{
+    border: 1px solid;
+}
